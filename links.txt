@@ -1,1 +1,80 @@
 https://army.deps.mil/netcom/sites/CMU/CPT101/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fnetcom%2Fsites%2FCMU%2FCPT101%2FShared%20Documents%2FMisc%2FNiKSUN&InitialTabId=Ribbon%2EDocument&VisibilityContext=WSSTabPersistence
+
+https://army.deps.mil/netcom/sites/CMU/CPT101/_layouts/PowerPoint.aspx?PowerPointView=ReadingView&PresentationId=/netcom/sites/CMU/CPT101/Shared%20Documents/Misc/Deployment%20Kit/CPT_Fuel_Installation_V1_20150312.pptx&Source=https%3A%2F%2Farmy%2Edeps%2Emil%2Fnetcom%2Fsites%2FCMU%2FCPT101%2FShared%2520Documents%2FForms%2FAllItems%2Easpx%3FRootFolder%3D%252Fnetcom%252Fsites%252FCMU%252FCPT101%252FShared%2520Documents%252FMisc%252FDeployment%2520Kit&DefaultItemOpen=1
+
+https://army.deps.mil/netcom/sites/CMU/CPT101/Shared%20Documents/Team%20Documents/Crew%20Manuals%20and%20Handbooks/101st_CPT_SOP_V1.0_31DEC14.docx
+
+https://army.deps.mil/netcom/sites/CMU/CPT101/Shared%20Documents/Team%20Documents/Crew%20Manuals%20and%20Handbooks/CPT%20Smart%20Book.pptx
+
+https://army.deps.mil/netcom/sites/CMU/CPT101/Shared%20Documents/Team%20Documents/Crew%20Manuals%20and%20Handbooks/CPT_CrewOps_Manual_v1.1_FINAL.DOCX
+
+https://army.deps.mil/netcom/sites/CMU/CPT101/_layouts/PowerPoint.aspx?PowerPointView=ReadingView&PresentationId=/netcom/sites/CMU/CPT101/Shared%20Documents/Team%20Documents/CPT%20Overview/101%20CPT%20Capabilities%20Brief%201.0.pptx&Source=https%3A%2F%2Farmy%2Edeps%2Emil%2Fnetcom%2Fsites%2FCMU%2FCPT101%2FShared%2520Documents%2FForms%2FAllItems%2Easpx%3FRootFolder%3D%252Fnetcom%252Fsites%252FCMU%252FCPT101%252FShared%2520Documents%252FTeam%2520Documents%252FCPT%2520Overview&DefaultItemOpen=1
+
+https://about.gitlab.com/downloads/
+
+https://disa.deps.mil/ext/cop/mae/netops/SitePages/Home.aspx
+
+https://disa.deps.mil/ext/cop/mae/cop_mae/JRSS/_layouts/OSSSearchResults.aspx?k=%22%2A%22&cs=This%20Site&u=https%3A%2F%2Fdisa%2Edeps%2Emil%2Fext%2Fcop%2Fmae%2Fcop_mae%2FJRSS&r=
+
+NG State CONPLANS - https://www.intelink.gov/go/C81QMWL
+
+inurl:https://acpol2.army.mil/fasclass/search_fs/ intext:cyber
+
+32 CFR 236.5 - Cyber security information sharing.  -  https://www.law.cornell.edu/cfr/text/32/236.5
+
+42 U.S. Code § 1862p–8 - Cyber-enabled learning for national challenges  -  https://www.law.cornell.edu/uscode/text/42/1862p-8
+
+42 U.S. Code § 17613 - Purpose of ICAC task forces  -  https://www.law.cornell.edu/uscode/text/42/17613
+
+42 U.S. Code § 17614 - Duties and functions of task forces  -  https://www.law.cornell.edu/uscode/text/42/17614
+
+Federal Rules of Evidence, Rule 702. Testimony by Expert Witnesses  -  https://www.law.cornell.edu/rules/fre/rule_702
+
+Digital Evidence  -  https://www.swgde.org/documents/Current%20Documents/2014-09-05%20SWGDE%20Best%20Practices%20for%20Computer%20Forensics%20V3-1
+
+UEFI  -  https://www.swgde.org/documents/Current%20Documents/2014-02-06%20SWGDE%20UEFI%20Effect%20on%20Digital%20Imaging%20V1
+
+Error Mitigation  -  https://www.swgde.org/documents/Current%20Documents/2015-02-05%20SWGDE%20Establishing%20Confidence%20in%20Digital%20Forensic%20Results%20by%20Error%20Mitigation%20Analysis%20V1-5
+
+http://www.crime-scene-investigator.net/forensiclabdesign.pdf
+
+https://community.max.gov/download/attachments/824738787/Cyber%20Incident%20Severity%20Schema%20v1.pdf?api=v2
+
+https://community.max.gov/pages/viewpageattachments.action?pageId=711037899
+
+http://niccs.us-cert.gov/training/tc/search
+
+https://www.dcita.edu/courses.html
+
+http://technews.tmcnet.com/news/2014/08/12/7967707.htm
+
+SAP MARKING  -  http://www.dtic.mil/whs/directives/corres/pdf/520507vol4.pdf
+
+DoD Instruction S-3325.10, “Human Intelligence (HUMINT) Activities in Cyberspace (U/FOUO)”, June 6, 2013
+
+CNA  -  https://whsddpubs.dtic.mil/corres/pdf/O360003p.pdf
+
+https://www.dcita.edu/assets/course_map_web.pdf
+
+http://technews.tmcnet.com/news/2014/08/12/7967707.htm
+
+Guidelines on Mobile Device Forensics  -  http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-101r1.pdf
+
+NIST Cloud Computing Forensic Science Challenges  -  http://csrc.nist.gov/publications/drafts/nistir-8006/draft_nistir_8006.pdf
+
+Computer Security Incident Handling Guide  -  http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf
+
+A Role-Based Model for Federal Information Technology/Cybersecurity Training  -  http://csrc.nist.gov/publications/drafts/800-16-rev1/sp800_16_rev1_3rd-draft.pdf
+
+Mapping the Forensic Standard ISO/IEC 27037 to Cloud Computing  -  https://downloads.cloudsecurityalliance.org/initiatives/imf/Mapping-the-Forensic-Standard-ISO-IEC-27037-to-Cloud-Computing.pdf
+
+DF-C²M²: A Capability Maturity Model for Digital Forensics Organisations  -  http://www.ieee-security.org/TC/SPW2014/papers/5103a057.PDF
+
+Forensic Examination of Digital Evidence: A Guide for Law Enforcement  -  https://www.ncjrs.gov/pdffiles1/nij/199408.pdf
+
+Law 101: Legal Guide for the Forensic Expert  -  http://www.nij.gov/training/Documents/law101-full-course.pdf
+
+Investigative Uses of Technology: Devices, Tools, and Techniques  -  https://www.ncjrs.gov/pdffiles1/nij/213030.pdf
+
+NIST Cloud Computing Forensic Science Challenges  -  https://www.intelink.gov/go/7smp7Qv
+
