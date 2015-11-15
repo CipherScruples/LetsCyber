@@ -1,4 +1,4 @@
-https://army.deps.mil/netcom/sites/CMU/CPT101/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fnetcom%2Fsites%2FCMU%2FCPT101%2FShared%20Documents%2FMisc%2FNiKSUN&InitialTabId=Ribbon%2EDocument&VisibilityContext=WSSTabPersistence
+﻿https://army.deps.mil/netcom/sites/CMU/CPT101/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fnetcom%2Fsites%2FCMU%2FCPT101%2FShared%20Documents%2FMisc%2FNiKSUN&InitialTabId=Ribbon%2EDocument&VisibilityContext=WSSTabPersistence
 
 https://army.deps.mil/netcom/sites/CMU/CPT101/_layouts/PowerPoint.aspx?PowerPointView=ReadingView&PresentationId=/netcom/sites/CMU/CPT101/Shared%20Documents/Misc/Deployment%20Kit/CPT_Fuel_Installation_V1_20150312.pptx&Source=https%3A%2F%2Farmy%2Edeps%2Emil%2Fnetcom%2Fsites%2FCMU%2FCPT101%2FShared%2520Documents%2FForms%2FAllItems%2Easpx%3FRootFolder%3D%252Fnetcom%252Fsites%252FCMU%252FCPT101%252FShared%2520Documents%252FMisc%252FDeployment%2520Kit&DefaultItemOpen=1
 
@@ -17,8 +17,6 @@ https://disa.deps.mil/ext/cop/mae/netops/SitePages/Home.aspx
 https://disa.deps.mil/ext/cop/mae/cop_mae/JRSS/_layouts/OSSSearchResults.aspx?k=%22%2A%22&cs=This%20Site&u=https%3A%2F%2Fdisa%2Edeps%2Emil%2Fext%2Fcop%2Fmae%2Fcop_mae%2FJRSS&r=
 
 NG State CONPLANS - https://www.intelink.gov/go/C81QMWL
-
-inurl:https://acpol2.army.mil/fasclass/search_fs/ intext:cyber
 
 32 CFR 236.5 - Cyber security information sharing.  -  https://www.law.cornell.edu/cfr/text/32/236.5
 
@@ -77,4 +75,21 @@ Law 101: Legal Guide for the Forensic Expert  -  http://www.nij.gov/training/Doc
 Investigative Uses of Technology: Devices, Tools, and Techniques  -  https://www.ncjrs.gov/pdffiles1/nij/213030.pdf
 
 NIST Cloud Computing Forensic Science Challenges  -  https://www.intelink.gov/go/7smp7Qv
+
+https://intelshare.intelink.gov/sites/orngcyber/Public%20Documents/Joint%20Cyber%20Training%20and%20Certification%20Standards.pdf
+
+https://atc.us.army.mil/iastar/docs/CNDSP_appointment_letter_template.pdf
+
+DRRS and JTIMS are discussed in the JCT&CS https://www.intelink.gov/go/xhzrC88 and JMETL is covered by USCC's JMETL https://www.intelink.gov/go/wZDWNYf
+
+https://rrs.csd.disa.mil/
+
+US-CERT Federal Incident Notification Guidelines
+https://www.us-cert.gov/sites/default/files/publications/Federal_Incident_Notification_Guidelines.pdf
+
+USCC JRCC HLD Response  -  https://www.intelink.gov/go/6s1WP1N
+
+NWS DEL Legal Breif  -  https://www.intelink.gov/go/KOhUrQZ
+
+NASCIO NG Authorities  -  https://www.intelink.gov/go/qQtiFPC
 
